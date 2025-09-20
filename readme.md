@@ -11,7 +11,7 @@ A simple Python script using Selenium to fetch Counter-Strike 2 updates from Val
 
 1. Clone the repository:
 ```
-git clone <URL>
+git clone [<URL>](https://github.com/TygrysGracz/cs2-update-scraper.git)
 ```
 2. Install the required packages:
 ```
